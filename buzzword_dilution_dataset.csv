@@ -1,0 +1,582 @@
+text,buzzword,year,platform,source_type,label
+Artificial Intelligence (AI): The simulation of human intelligence by machines to perform tasks.,Artificial Intelligence,2025,Linkedin,Technical,Technical
+"Big Data: Large, complex datasets that are difficult to process using traditional data-processing methods.",Big Data,2025,Linkedin,Technical,Technical
+"Machine Learning (ML): Algorithms that enable computers to learn from and make predictions based on data.
+",Machine Learning,2025,Linkedin,Technical,Technical
+Deep Learning: A subset of ML that uses neural networks with many layers to model complex patterns in data.,Deep Learning,2025,Reddit,Technical,Technical
+Algorithm: A step-by-step procedure to solve a problem or perform a task.,Algorithm,2021,Linkedin,Technical,Technical
+"Neural Networks: Computing systems modeled after the human brain's network of neurons, used for deep learning tasks.
+",Neural Network,2025,Reddit,Technical,Technical
+"Natural Language Processing (NLP): Al that enables computers to
+understand, interpret, and respond to human language.",Natural Language Processing,2024,Linkedin,Technical,Technical
+Data Analyst: Turns raw data into actionable insights for decision-making.,Data Analyst,2020,Medium,Non Technical,Hype
+Data scientist: Uses data to build predictive and advanced analytics models.,Data Science,2024,Medium,Non Technical,Hype
+"A Data Scientist uses advanced analytical techniques to extract meaningful insights from large and complex datasets. They build machine learning models, apply statistical methods, and experiment with algorithms to predict future trends and solve business problems. A data scientist works with tools like Python, R, SQL, and visualization platforms, and often collaborates with business teams to translate data findings into actionable strategies. Their role combines programming, mathematics, and domain knowledge, making them key contributors to decision-making and innovation.",Data Science,2024,Linkedin,Technical,Technical
+"A Data Analyst interprets data to help organizations make informed decisions. They gather, clean, and analyze datasets, uncover trends, and prepare insights using dashboards, reports, and visualizations. Analysts use tools like Excel, SQL, Power BI, Tableau, and sometimes basic Python. Their work focuses on identifying patterns, measuring performance, and presenting clear findings to support business strategy, operations, and planning.",Data Analyst,2025,Linkedin,Technical,Technical
+"In simple terms AI is the “brain”, data is the “fuel”, and data scientists are the ones who make both work together.",Artificial Intelligence,2025,Linkedin,Non Technical,Hype
+Data analyst interpreting existing data,Data Analyst,2022,Medium,Non Technical,Hype
+Data scientist predict future trends,Data Science,2021,Medium,Non Technical,Hype
+Data science: Extract insights from data using advanced technique,Data Science,2024,Marketing,Non Technical,Hype
+Data Analyst: Analyze data to support business decision.,Data Analyst,2025,Marketing,Non Technical,Hype
+"Machine Learning: Subset of AI that trains algorithms to learn from data
+",Machine Learning,2025,Marketing,Non Technical,Hype
+"Builds applications powered by large language models. Works on prompt design, RAG pipelines, evaluations, and integrations with real-world systems. Great for professionals excited about LLMs and modern AI applications.",Artificial Intelligence,2025,Marketing,Technical,Technical
+"Answers what will happen and how can we predict it. Involves statistics, machine learning, experimentation, and feature engineering. Ideal if you enjoy modeling, problem-solving, and working with uncertainty.",Data Science,2020,Marketing,Technical,Technical
+"Focused on understanding what happened and why. Works closely with structured data, dashboards, and reports to support decision-making. Best fit if you enjoy insights, trends, and business reporting.",Data Analyst,2025,Twitter,Technical,Technical
+"Today, LLM powered systems build on those analytics to understand intent, reason over context, and generate personalized recommendations through natural language interaction.",Large Language Model,2023,Medium,Technical,Hype
+"Data analytics handles patterns, scale, and structure",Data Analyst,2025,Blog,Technical,Hype
+"In recent years, the capabilities of large language models (LLMs) have progressed far beyond their original purpose of text generation. With the release of GPT-3 (Brown et al. 2020), PaLM (Chowdhery et al. 2022), LLaMA (Touvron et al. 2023), Claude, Gemini, and GPT-4o, these models have demonstrated remarkable proficiency across a wide range of linguistic tasks including translation, summariza-tion, question answering, reasoning, and even code genera-tion often with minimal supervision or task specific tuning.",Large Language Model,2023,Marketing,Non Technical,Hype
+A model trained on massive text data to understand and generate language. It predicts the next best token — not “thinking”.,Large Language Model,2023,Blog,Non Technical,Hype
+Systems that learn patterns from data to make predictions or decisions.,Machine Learning,2024,Marketing,Non Technical,Hype
+"A subset of ML focused on creating content — text, images, code, audio.",Artificial Intelligence,2020,Blog,Non Technical,Hype
+"An AI that can reason, take actions, use tools, and follow workflows to achieve a goal.",Generative AI,2025,Blog,Non Technical,Hype
+"The big umbrella. Any tech that tries to mimic human smarts - thinking, learning, deciding...",Artificial Intelligence,2023,Blog,Technical,Hype
+A slice of AI. Systems learn from data and get better over time without being hard-coded...,Machine Learning,2024,Twitter,Technical,Hype
+"A type of ML that uses many-layered neural networks. Great for images, speech, and language...",Deep Learning,2025,Blog,Technical,Hype
+"AI that creates things -text, images, code by learning patterns from lots of examples...",Artificial Intelligence,2023,Medium,Technical,Hype
+A deep-learning model trained on huge amounts of text so it can understand and generate human-like language.,Large Language Model,2024,Twitter,Technical,Hype
+"Software that uses models (often LLMs) to plan and do tasks toward a goal - like searching, calling tools, and taking actions.",Generative AI,2025,Blog,Technical,Hype
+The AI landscape just shifted dramatically with MiniMax's M2 model - and the numbers are absolutely mind-blowing!,Generative AI,2021,Blog,Technical,Hype
+"A Large Language Model (LLM) is an advanced type of artificial intelligence designed to understand and generate human-like text. Trained on massive datasets—including books, articles, and online content—LLMs use complex neural networks, especially transformer architectures, to learn how words and ideas connect. Their core function is simple yet powerful: they take an input (a prompt) and generate the most relevant, coherent output by predicting the next likely word. This capability enables a wide range of applications, including conversational Q&A, document summarization, language translation, creative writing, marketing content, coding assistance, and powering smart chatbots and virtual assistants.",Artificial Intelligence,2023,Marketing,Non Technical,Hype
+"Artificial intelligence. The concept of simulating human intelligence processes by machines. It refers to tools and methods that enable machines to learn from experience and adjust to new situations without explicit programming. Concisely, machine learning and deep learning both fall into the category of artificial intelligence.",Artificial Intelligence,2022,Blog,Technical,Hype
+Machine learning and deep learning. Artificial intelligence that can automatically learn with little human interference. Deep learning is a type of machine learning that uses copious amounts of data to train a system.,Machine Learning,2024,Reddit,Technical,Hype
+"Generative AI. A type of deep learning that enables users to quickly generate content based on various inputs such as text and voice, resulting in multiple outputs in the form of images, video, and other types of security data.",Generative AI,2021,Blog,Technical,Hype
+Large language model (LLM). An artificial intelligence algorithm and type of generative AI that uses deep learning techniques and is fed massive amounts of information from the internet.,Large Language Model,2024,Blog,Technical,Hype
+AI (Artificial Intelligence): The broad goal of simulating human intelligence.,Artificial Intelligence,2021,Medium,Non Technical,Hype
+ ML (Machine Learning): A subset where computers learn from patterns in data.,Machine Learning,2021,Medium,Non Technical,Hype
+ DL (Deep Learning): Using neural networks to mimic the human brain.,Deep Learning,2025,Medium,Non Technical,Hype
+GenAI: The latest layer that doesn't just analyze data—it creates new content.,Generative AI,2025,Medium,Non Technical,Hype
+"Large Language Models (LLMs) are advanced AI systems trained on vast amounts of text to understand, generate, and reason with human language. ",Large Language Model,2024,Blog,Non Technical,Hype
+"Combines search capabilities and gen AI advances to provide direct, curated responses and recommendations to a user query. A form of search that generates a natural-language response (e.g. Google AI Overviews). Advanced search method that uses natural language processing to understand search queries and provide relevant results. Allows back-and-forth dialog between the user and the LLM-based tool (e.g. ChatGPT, Google AI Mode).",Generative AI,2025,Reddit,Technical,Hype
+AI is changing how customers discover e-commerce platforms and solutions.,Artificial Intelligence,2025,Medium,Technical,Hype
+"Large Language Models (LLMs) are powerful AI systems trained on massive text datasets to understand, generate, and process human language for tasks like writing, translation, summarization, and powering chatbots (e.g., GPT, Gemini). They learn patterns from the web and books, enabling them to predict the next word in a sequence, creating coherent and contextually relevant responses through deep learning and transformer architectures, though they face challenges like bias and generating inaccuracies (hallucinations). How They Work Training: LLMs are trained on enormous amounts of text data (books, articles, websites) to learn grammar, facts, reasoning, and language patterns. Transformer Architecture: A key innovation is the transformer, which allows the model to weigh the importance of different words in a sentence, understanding context and relationships between words, even far apart. Prediction: When given a prompt, the LLM predicts the most probable next word, building out responses piece by piece in a human-like way.",Large Language Model,2025,Reddit,Technical,Hype
+"LLMs are the tech behind popular tools like ChatGPT, making ""AI"" and ""LLM"" seem interchangeable in media. +Subset Relationship: All LLMs are a type of AI, but the reverse isn't true; AI encompasses much more. ",Large Language Model,2025,Marketing,Technical,Hype
+"Computer Vision: AI that understands and interprets images and videos (e.g., self-driving cars, facial recognition).",Computer Vision,2025,Marketing,Technical,Hype
+Robotics: AI-powered physical systems that interact with the world.,Robotic Process Automation,2025,Linkedin,Technical,Hype
+Machine Learning (ML): The broader field where systems learn from data; LLMs are built using ML.,Machine Learning,2024,Marketing,Technical,Hype
+"AI = A tool that learns, Analyze & suggest - faster than you can blink",Artificial Intelligence,2025,Medium,Non Technical,Hype
+"AI Model : The brain trained to think, read and analyze",Generative AI,2025,Linkedin,Non Technical,Hype
+Machine Learning : learns from data to make decisions,Machine Learning,2023,Medium,Non Technical,Hype
+Deep Learning: A deeper version of ML - great with complex stuff.,Deep Learning,2025,Medium,Non Technical,Hype
+NLP: Helps AI understand and generate human language.,Natural Language Processing,2025,Medium,Non Technical,Hype
+LLM: A superpowered NLP model trained on tons of text.,Large Language Model,2025,Medium,Non Technical,Hype
+"Artificial Intelligence It refers to machines mimicking human intelligence to perform tasks like decision-making, problem-solving, and learning.",Artificial Intelligence,2025,Blog,Technical,Technical
+Machine Learning is a subset of AI. It refers to systems that can learn from data and improve over time without being explicitly programmed.,Machine Learning,2020,Reddit,Technical,Technical
+"Data Science is the process of extracting insights and value from data using a mix of statistics, programming, and domain knowledge.",Data Science,2022,Blog,Technical,Technical
+"Artificial Intelligence (AI) is a broad discipline that refers to machines mimicking human intelligence. This includes reasoning, problem-solving, understanding natural language, and even creativity.",Artificial Intelligence,2023,Blog,Non Technical,Hype
+Machine Learning (ML) is a subset of AI that enables systems to learn from data and improve over time without being explicitly programmed.,Machine Learning,2020,Blog,Non Technical,Hype
+"Supervised Learning — Uses labeled data (e.g., fraud detection),Unsupervised Learning — Uses unlabeled data (e.g., customer segmentation), Reinforcement Learning — Learns via trial and error (e.g., self-driving cars)",Supervised Learning,2025,Blog,Non Technical,Hype
+Deep Learning (DL) is a subset of ML that uses neural networks with many layers (hence the term ‘deep’) to analyze complex patterns in data.,Deep Learning,2024,Blog,Non Technical,Hype
+"Artificial Intelligence (AI) is the broadest concept. It’s about making machines mimic human intelligence, solving problems, learning, or making decisions.",Artificial Intelligence,2022,Linkedin,Technical,Technical
+"Machine Learning (ML) is AI’s workhorse. Instead of pre-programming every behaviour (rule based systems where you pre define all conditions <if, then, else>), ML lets machines learn from data.",Machine Learning,2025,Linkedin,Technical,Technical
+Deep Learning (DL) is a subset of ML. It uses neural networks that mimic the human brain’s structure.,Deep Learning,2022,Linkedin,Technical,Technical
+"Generative AI? Like the name suggests, It generates. It doesn’t just analyze data but it builds new content- text, images, code, music, 3D models and so on.",Generative AI,2025,Linkedin,Technical,Technical
+"Artificial Intelligence refers to systems or machines that display behaviour's generally associated with human intelligence — such as learning, problem-solving, perception, and decision-making. The field spans a wide range, from simple automated systems to advanced applications like self-driving vehicles, chatbots, and image recognition.",Artificial Intelligence,2021,Blog,Non Technical,Hype
+"Machine Learning is a subset of AI, empowering computers to “learn” patterns from data and make predictions or decisions without being explicitly programmed for every possible scenario. Think of ML as the engine that drives much of what is considered AI today — from email spam filters to predictive analytics in finance.",Machine Learning,2025,Blog,Non Technical,Hype
+"Supervised Learning: Models are trained with labelled data to make accurate predictions (e.g., distinguishing cats from dogs in images). Unsupervised Learning: Models analyze unlabelled data to discover hidden patterns (e.g., customer segmentation).",Supervised Unsupervised Learning,2025,Blog,Non Technical,Hype
+"AI is a broad field in computer science focused on creating systems that can perform tasks requiring human intelligence, such as problem-solving, decision-making, and language understanding. Coined by Stanford Professor John McCarthy, AI encompasses various methodologies, including Machine Learning and Deep Learning.",Artificial Intelligence,2020,Blog,Non Technical,Hype
+"A subset of AI, ML involves developing algorithms that enable systems to improve their performance on specific tasks through experience, without explicit programming. ML detects patterns in datasets to construct models that can learn and make decisions independently.",Machine Learning,2025,Blog,Non Technical,Hype
+"A subset of ML, deep learning uses neural networks with multiple layers to learn complex patterns in data. It's effective for tasks like image recognition and natural language processing.",Deep Learning,2020,Blog,Non Technical,Hype
+NLP enables computers to understand and generate human language. It combines computational linguistics with machine learning to process and analyze large amounts of natural language data.,Natural Language Processing,2025,Blog,Non Technical,Hype
+"LLMs are trained on extensive text datasets to understand and generate language. Examples include GPT-4 and BERT, used in tasks like text summarization and sentiment analysis.",Large Language Model,2024,Blog,Non Technical,Hype
+"XAI systems make their operations and decisions understandable to human users, fostering trust and collaboration, particularly in critical applications like medical diagnostics.",Explainable AI,2025,Blog,Non Technical,Hype
+This study discusses practical implementations and limitations of Supervised Learning based systems in 2022.,Supervised Learning,2022,Twitter,Technical,Technical
+"Computer Vision will revolutionize industries by 2021, unlocking unprecedented innovation and growth.",Computer Vision,2020,Medium,Technical,Hype
+This study discusses practical implementations and limitations of Robotic Process Automation based systems in 2025.,Robotic Process Automation,2025,Medium,Non-Technical,Technical
+This study discusses practical implementations and limitations of Large Language Model based systems in 2024.,Large Language Model,2024,LinkedIn,Non-Technical,Technical
+This study discusses practical implementations and limitations of Big Data based systems in 2021.,Big Data,2021,LinkedIn,Technical,Technical
+"Machine Learning will revolutionize industries by 2024, unlocking unprecedented innovation and growth.",Machine Learning,2023,LinkedIn,Non-Technical,Hype
+This study discusses practical implementations and limitations of Large Language Model based systems in 2025.,Large Language Model,2025,Reddit,Technical,Technical
+This study discusses practical implementations and limitations of Generative AI based systems in 2022.,Generative AI,2022,Blog,Non-Technical,Technical
+This study discusses practical implementations and limitations of Data Science based systems in 2021.,Data Science,2021,LinkedIn,Technical,Technical
+"Deep Learning will revolutionize industries by 2024, unlocking unprecedented innovation and growth.",Deep Learning,2023,LinkedIn,Technical,Hype
+"Unsupervised Learning will revolutionize industries by 2026, unlocking unprecedented innovation and growth.",Unsupervised Learning,2025,Twitter,Non-Technical,Hype
+This study discusses practical implementations and limitations of Deep Learning based systems in 2023.,Deep Learning,2023,Marketing,Non-Technical,Technical
+"Transformer will revolutionize industries by 2025, unlocking unprecedented innovation and growth.",Transformer,2024,Marketing,Technical,Hype
+"Large Language Model will revolutionize industries by 2023, unlocking unprecedented innovation and growth.",Large Language Model,2022,Twitter,Non-Technical,Hype
+This study discusses practical implementations and limitations of Internet of Things based systems in 2023.,Internet of Things,2023,LinkedIn,Non-Technical,Technical
+"Computer Vision will revolutionize industries by 2022, unlocking unprecedented innovation and growth.",Computer Vision,2021,Medium,Technical,Hype
+This study discusses practical implementations and limitations of Artificial Intelligence based systems in 2022.,Artificial Intelligence,2022,Reddit,Technical,Technical
+This study discusses practical implementations and limitations of Algorithm based systems in 2025.,Algorithm,2025,LinkedIn,Non-Technical,Technical
+This study discusses practical implementations and limitations of Computer Vision based systems in 2023.,Computer Vision,2023,Reddit,Technical,Technical
+"GPT will revolutionize industries by 2026, unlocking unprecedented innovation and growth.",GPT,2025,Blog,Non-Technical,Hype
+"Deep Learning will revolutionize industries by 2025, unlocking unprecedented innovation and growth.",Deep Learning,2024,LinkedIn,Technical,Hype
+"Generative AI will revolutionize industries by 2026, unlocking unprecedented innovation and growth.",Generative AI,2025,Reddit,Non-Technical,Hype
+"Big Data will revolutionize industries by 2022, unlocking unprecedented innovation and growth.",Big Data,2021,LinkedIn,Non-Technical,Hype
+This study discusses practical implementations and limitations of Robotic Process Automation based systems in 2022.,Robotic Process Automation,2022,Twitter,Technical,Technical
+This study discusses practical implementations and limitations of Chatbot based systems in 2020.,Chatbot,2020,Marketing,Technical,Technical
+This study discusses practical implementations and limitations of Generative AI based systems in 2023.,Generative AI,2023,Medium,Technical,Technical
+This study discusses practical implementations and limitations of Robotic Process Automation based systems in 2025.,Robotic Process Automation,2025,Twitter,Technical,Technical
+"GPT will revolutionize industries by 2021, unlocking unprecedented innovation and growth.",GPT,2020,Twitter,Non-Technical,Hype
+This study discusses practical implementations and limitations of Generative AI based systems in 2022.,Generative AI,2022,LinkedIn,Non-Technical,Technical
+"Big Data will revolutionize industries by 2021, unlocking unprecedented innovation and growth.",Big Data,2020,LinkedIn,Non-Technical,Hype
+This study discusses practical implementations and limitations of Natural Language Processing based systems in 2021.,Natural Language Processing,2021,Reddit,Technical,Technical
+This study discusses practical implementations and limitations of Machine Learning based systems in 2022.,Machine Learning,2022,LinkedIn,Non-Technical,Technical
+"Machine Learning will revolutionize industries by 2022, unlocking unprecedented innovation and growth.",Machine Learning,2021,Marketing,Non-Technical,Hype
+This study discusses practical implementations and limitations of Explainable AI based systems in 2023.,Explainable AI,2023,Reddit,Technical,Technical
+This study discusses practical implementations and limitations of Big Data based systems in 2022.,Big Data,2022,Reddit,Technical,Technical
+This study discusses practical implementations and limitations of Unsupervised Learning based systems in 2021.,Unsupervised Learning,2021,Reddit,Technical,Technical
+This study discusses practical implementations and limitations of Chatbot based systems in 2022.,Chatbot,2022,Reddit,Non-Technical,Technical
+"Chatbot will revolutionize industries by 2024, unlocking unprecedented innovation and growth.",Chatbot,2023,LinkedIn,Non-Technical,Hype
+"Big Data will revolutionize industries by 2024, unlocking unprecedented innovation and growth.",Big Data,2023,LinkedIn,Technical,Hype
+This study discusses practical implementations and limitations of Explainable AI based systems in 2020.,Explainable AI,2020,Twitter,Technical,Technical
+"Explainable AI will revolutionize industries by 2021, unlocking unprecedented innovation and growth.",Explainable AI,2020,Twitter,Non-Technical,Hype
+This study discusses practical implementations and limitations of Sentiment Analysis based systems in 2021.,Sentiment Analysis,2021,LinkedIn,Non-Technical,Technical
+This study discusses practical implementations and limitations of Deep Learning based systems in 2023.,Deep Learning,2023,LinkedIn,Non-Technical,Technical
+"Natural Language Processing will revolutionize industries by 2021, unlocking unprecedented innovation and growth.",Natural Language Processing,2020,Marketing,Technical,Hype
+This study discusses practical implementations and limitations of Deep Learning based systems in 2020.,Deep Learning,2020,Reddit,Technical,Technical
+This study discusses practical implementations and limitations of Explainable AI based systems in 2025.,Explainable AI,2025,Twitter,Technical,Technical
+"Big Data will revolutionize industries by 2026, unlocking unprecedented innovation and growth.",Big Data,2025,Blog,Non-Technical,Hype
+"Data Analyst will revolutionize industries by 2025, unlocking unprecedented innovation and growth.",Data Analyst,2024,Blog,Technical,Hype
+This study discusses practical implementations and limitations of Computer Vision based systems in 2024.,Computer Vision,2024,Reddit,Non-Technical,Technical
+"Algorithm will revolutionize industries by 2026, unlocking unprecedented innovation and growth.",Algorithm,2025,Medium,Technical,Hype
+This study discusses practical implementations and limitations of Machine Learning based systems in 2022.,Machine Learning,2022,Medium,Technical,Technical
+This study discusses practical implementations and limitations of Deep Learning based systems in 2022.,Deep Learning,2022,Medium,Non-Technical,Technical
+"Robotic Process Automation will revolutionize industries by 2023, unlocking unprecedented innovation and growth.",Robotic Process Automation,2022,Medium,Technical,Hype
+This study discusses practical implementations and limitations of Transformer based systems in 2023.,Transformer,2023,Reddit,Technical,Technical
+"Generative AI will revolutionize industries by 2024, unlocking unprecedented innovation and growth.",Generative AI,2023,Twitter,Non-Technical,Hype
+This study discusses practical implementations and limitations of Computer Vision based systems in 2024.,Computer Vision,2024,Reddit,Non-Technical,Technical
+This study discusses practical implementations and limitations of Deep Learning based systems in 2024.,Deep Learning,2024,LinkedIn,Non-Technical,Technical
+This study discusses practical implementations and limitations of Large Language Model based systems in 2022.,Large Language Model,2022,Blog,Technical,Technical
+"Supervised Learning will revolutionize industries by 2026, unlocking unprecedented innovation and growth.",Supervised Learning,2025,Reddit,Non-Technical,Hype
+This study discusses practical implementations and limitations of Explainable AI based systems in 2021.,Explainable AI,2021,Medium,Technical,Technical
+"Robotic Process Automation will revolutionize industries by 2021, unlocking unprecedented innovation and growth.",Robotic Process Automation,2020,Blog,Technical,Hype
+This study discusses practical implementations and limitations of Chatbot based systems in 2020.,Chatbot,2020,Reddit,Technical,Technical
+"Transformer will revolutionize industries by 2023, unlocking unprecedented innovation and growth.",Transformer,2022,Twitter,Non-Technical,Hype
+"Unsupervised Learning will revolutionize industries by 2025, unlocking unprecedented innovation and growth.",Unsupervised Learning,2024,Blog,Technical,Hype
+"Computer Vision will revolutionize industries by 2026, unlocking unprecedented innovation and growth.",Computer Vision,2025,LinkedIn,Non-Technical,Hype
+"Explainable AI will revolutionize industries by 2021, unlocking unprecedented innovation and growth.",Explainable AI,2020,Blog,Technical,Hype
+"Sentiment Analysis will revolutionize industries by 2022, unlocking unprecedented innovation and growth.",Sentiment Analysis,2021,Medium,Technical,Hype
+"Large Language Model will revolutionize industries by 2026, unlocking unprecedented innovation and growth.",Large Language Model,2025,Blog,Technical,Hype
+This study discusses practical implementations and limitations of Robotic Process Automation based systems in 2020.,Robotic Process Automation,2020,Twitter,Technical,Technical
+"Data Analyst will revolutionize industries by 2021, unlocking unprecedented innovation and growth.",Data Analyst,2020,Blog,Non-Technical,Hype
+This study discusses practical implementations and limitations of Explainable AI based systems in 2025.,Explainable AI,2025,Marketing,Technical,Technical
+"Chatbot will revolutionize industries by 2026, unlocking unprecedented innovation and growth.",Chatbot,2025,Medium,Non-Technical,Hype
+This study discusses practical implementations and limitations of Data Science based systems in 2025.,Data Science,2025,Marketing,Non-Technical,Technical
+This study discusses practical implementations and limitations of Artificial Intelligence based systems in 2024.,Artificial Intelligence,2024,Blog,Technical,Technical
+"GPT will revolutionize industries by 2026, unlocking unprecedented innovation and growth.",GPT,2025,Blog,Non-Technical,Hype
+This study discusses practical implementations and limitations of Computer Vision based systems in 2024.,Computer Vision,2024,Twitter,Technical,Technical
+"Data Science will revolutionize industries by 2024, unlocking unprecedented innovation and growth.",Data Science,2023,Medium,Non-Technical,Hype
+This study discusses practical implementations and limitations of Machine Learning based systems in 2022.,Machine Learning,2022,Reddit,Technical,Technical
+This study discusses practical implementations and limitations of Generative AI based systems in 2021.,Generative AI,2021,Medium,Non-Technical,Technical
+This study discusses practical implementations and limitations of Transformer based systems in 2021.,Transformer,2021,Reddit,Technical,Technical
+This study discusses practical implementations and limitations of Chatbot based systems in 2021.,Chatbot,2021,Reddit,Technical,Technical
+"Robotic Process Automation will revolutionize industries by 2021, unlocking unprecedented innovation and growth.",Robotic Process Automation,2020,LinkedIn,Technical,Hype
+This study discusses practical implementations and limitations of Transformer based systems in 2024.,Transformer,2024,LinkedIn,Non-Technical,Technical
+This study discusses practical implementations and limitations of Machine Learning based systems in 2021.,Machine Learning,2021,Blog,Technical,Technical
+"Explainable AI will revolutionize industries by 2021, unlocking unprecedented innovation and growth.",Explainable AI,2020,Twitter,Non-Technical,Hype
+This study discusses practical implementations and limitations of Chatbot based systems in 2020.,Chatbot,2020,Twitter,Non-Technical,Technical
+"Generative AI will revolutionize industries by 2021, unlocking unprecedented innovation and growth.",Generative AI,2020,Twitter,Non-Technical,Hype
+"Big Data will revolutionize industries by 2023, unlocking unprecedented innovation and growth.",Big Data,2022,Marketing,Non-Technical,Hype
+This study discusses practical implementations and limitations of Computer Vision based systems in 2020.,Computer Vision,2020,Twitter,Technical,Technical
+"Data Science will revolutionize industries by 2021, unlocking unprecedented innovation and growth.",Data Science,2020,Twitter,Non-Technical,Hype
+This study discusses practical implementations and limitations of Computer Vision based systems in 2024.,Computer Vision,2024,LinkedIn,Non-Technical,Technical
+This study discusses practical implementations and limitations of Machine Learning based systems in 2021.,Machine Learning,2021,LinkedIn,Non-Technical,Technical
+This study discusses practical implementations and limitations of Explainable AI based systems in 2020.,Explainable AI,2020,Marketing,Technical,Technical
+This study discusses practical implementations and limitations of Sentiment Analysis based systems in 2020.,Sentiment Analysis,2020,Medium,Technical,Technical
+"Data Analyst will revolutionize industries by 2023, unlocking unprecedented innovation and growth.",Data Analyst,2022,Twitter,Non-Technical,Hype
+"Algorithm will revolutionize industries by 2026, unlocking unprecedented innovation and growth.",Algorithm,2025,Marketing,Technical,Hype
+This study discusses practical implementations and limitations of Natural Language Processing based systems in 2023.,Natural Language Processing,2023,Reddit,Technical,Technical
+This study discusses practical implementations and limitations of Internet of Things based systems in 2023.,Internet of Things,2023,Blog,Technical,Technical
+This study discusses practical implementations and limitations of Supervised Learning based systems in 2021.,Supervised Learning,2021,Twitter,Technical,Technical
+This study discusses practical implementations and limitations of Supervised Learning based systems in 2021.,Supervised Learning,2021,Marketing,Non-Technical,Technical
+"Big Data will revolutionize industries by 2026, unlocking unprecedented innovation and growth.",Big Data,2025,Marketing,Technical,Hype
+This study discusses practical implementations and limitations of Big Data based systems in 2024.,Big Data,2024,Twitter,Technical,Technical
+This study discusses practical implementations and limitations of Robotic Process Automation based systems in 2020.,Robotic Process Automation,2020,Twitter,Technical,Technical
+"Neural Network will revolutionize industries by 2026, unlocking unprecedented innovation and growth.",Neural Network,2025,Medium,Technical,Hype
+"Natural Language Processing will revolutionize industries by 2022, unlocking unprecedented innovation and growth.",Natural Language Processing,2021,LinkedIn,Non-Technical,Hype
+This study discusses practical implementations and limitations of Data Science based systems in 2025.,Data Science,2025,Medium,Non-Technical,Technical
+This study discusses practical implementations and limitations of Algorithm based systems in 2025.,Algorithm,2025,Twitter,Non-Technical,Technical
+"GPT will revolutionize industries by 2026, unlocking unprecedented innovation and growth.",GPT,2025,Reddit,Non-Technical,Hype
+This study discusses practical implementations and limitations of Natural Language Processing based systems in 2020.,Natural Language Processing,2020,Reddit,Technical,Technical
+This study discusses practical implementations and limitations of Big Data based systems in 2023.,Big Data,2023,LinkedIn,Technical,Technical
+This study discusses practical implementations and limitations of Computer Vision based systems in 2020.,Computer Vision,2020,Medium,Non-Technical,Technical
+"Unsupervised Learning will revolutionize industries by 2023, unlocking unprecedented innovation and growth.",Unsupervised Learning,2022,LinkedIn,Technical,Hype
+This study discusses practical implementations and limitations of Supervised Learning based systems in 2022.,Supervised Learning,2022,Blog,Non-Technical,Technical
+"Chatbot will revolutionize industries by 2026, unlocking unprecedented innovation and growth.",Chatbot,2025,Reddit,Non-Technical,Hype
+This study discusses practical implementations and limitations of Artificial Intelligence based systems in 2021.,Artificial Intelligence,2021,Blog,Non-Technical,Technical
+This study discusses practical implementations and limitations of Internet of Things based systems in 2024.,Internet of Things,2024,Reddit,Technical,Technical
+"GPT will revolutionize industries by 2021, unlocking unprecedented innovation and growth.",GPT,2020,LinkedIn,Technical,Hype
+"Supervised Learning will revolutionize industries by 2021, unlocking unprecedented innovation and growth.",Supervised Learning,2020,Blog,Non-Technical,Hype
+"Neural Network will revolutionize industries by 2026, unlocking unprecedented innovation and growth.",Neural Network,2025,Reddit,Non-Technical,Hype
+This study discusses practical implementations and limitations of Data Analyst based systems in 2021.,Data Analyst,2021,Medium,Technical,Technical
+This study discusses practical implementations and limitations of Machine Learning based systems in 2025.,Machine Learning,2025,Twitter,Technical,Technical
+"Generative AI will revolutionize industries by 2023, unlocking unprecedented innovation and growth.",Generative AI,2022,Reddit,Non-Technical,Hype
+This study discusses practical implementations and limitations of Algorithm based systems in 2025.,Algorithm,2025,Twitter,Technical,Technical
+This study discusses practical implementations and limitations of Big Data based systems in 2025.,Big Data,2025,Reddit,Non-Technical,Technical
+This study discusses practical implementations and limitations of GPT based systems in 2021.,GPT,2021,Twitter,Technical,Technical
+"Generative AI will revolutionize industries by 2024, unlocking unprecedented innovation and growth.",Generative AI,2023,Reddit,Non-Technical,Hype
+"Robotic Process Automation will revolutionize industries by 2023, unlocking unprecedented innovation and growth.",Robotic Process Automation,2022,LinkedIn,Technical,Hype
+This study discusses practical implementations and limitations of Deep Learning based systems in 2023.,Deep Learning,2023,LinkedIn,Non-Technical,Technical
+"Deep Learning will revolutionize industries by 2024, unlocking unprecedented innovation and growth.",Deep Learning,2023,Blog,Technical,Hype
+This study discusses practical implementations and limitations of Supervised Learning based systems in 2025.,Supervised Learning,2025,Medium,Technical,Technical
+"Unsupervised Learning will revolutionize industries by 2023, unlocking unprecedented innovation and growth.",Unsupervised Learning,2022,Medium,Non-Technical,Hype
+This study discusses practical implementations and limitations of Internet of Things based systems in 2021.,Internet of Things,2021,Twitter,Non-Technical,Technical
+This study discusses practical implementations and limitations of Unsupervised Learning based systems in 2024.,Unsupervised Learning,2024,Reddit,Technical,Technical
+"Neural Network will revolutionize industries by 2022, unlocking unprecedented innovation and growth.",Neural Network,2021,Twitter,Non-Technical,Hype
+This study discusses practical implementations and limitations of Supervised Learning based systems in 2024.,Supervised Learning,2024,LinkedIn,Technical,Technical
+This study discusses practical implementations and limitations of Supervised Learning based systems in 2023.,Supervised Learning,2023,Reddit,Technical,Technical
+This study discusses practical implementations and limitations of Natural Language Processing based systems in 2025.,Natural Language Processing,2025,Twitter,Non-Technical,Technical
+"Computer Vision will revolutionize industries by 2024, unlocking unprecedented innovation and growth.",Computer Vision,2023,Marketing,Non-Technical,Hype
+This study discusses practical implementations and limitations of Natural Language Processing based systems in 2025.,Natural Language Processing,2025,Reddit,Technical,Technical
+This study discusses practical implementations and limitations of Explainable AI based systems in 2023.,Explainable AI,2023,Twitter,Technical,Technical
+"Internet of Things will revolutionize industries by 2025, unlocking unprecedented innovation and growth.",Internet of Things,2024,Blog,Technical,Hype
+"Robotic Process Automation will revolutionize industries by 2021, unlocking unprecedented innovation and growth.",Robotic Process Automation,2020,LinkedIn,Technical,Hype
+This study discusses practical implementations and limitations of GPT based systems in 2023.,GPT,2023,Blog,Non-Technical,Technical
+This study discusses practical implementations and limitations of GPT based systems in 2022.,GPT,2022,Reddit,Technical,Technical
+This study discusses practical implementations and limitations of Sentiment Analysis based systems in 2023.,Sentiment Analysis,2023,LinkedIn,Technical,Technical
+This study discusses practical implementations and limitations of Deep Learning based systems in 2023.,Deep Learning,2023,Marketing,Non-Technical,Technical
+This study discusses practical implementations and limitations of Data Analyst based systems in 2025.,Data Analyst,2025,Reddit,Technical,Technical
+This study discusses practical implementations and limitations of Machine Learning based systems in 2025.,Machine Learning,2025,Medium,Non-Technical,Technical
+"Explainable AI will revolutionize industries by 2023, unlocking unprecedented innovation and growth.",Explainable AI,2022,LinkedIn,Non-Technical,Hype
+This study discusses practical implementations and limitations of Explainable AI based systems in 2020.,Explainable AI,2020,Marketing,Non-Technical,Technical
+This study discusses practical implementations and limitations of Computer Vision based systems in 2021.,Computer Vision,2021,Blog,Technical,Technical
+This study discusses practical implementations and limitations of Unsupervised Learning based systems in 2020.,Unsupervised Learning,2020,Twitter,Non-Technical,Technical
+This study discusses practical implementations and limitations of GPT based systems in 2020.,GPT,2020,Reddit,Non-Technical,Technical
+This study discusses practical implementations and limitations of Generative AI based systems in 2024.,Generative AI,2024,Medium,Technical,Technical
+This study discusses practical implementations and limitations of Unsupervised Learning based systems in 2023.,Unsupervised Learning,2023,Reddit,Technical,Technical
+This study discusses practical implementations and limitations of GPT based systems in 2022.,GPT,2022,Medium,Technical,Technical
+"Artificial Intelligence will revolutionize industries by 2022, unlocking unprecedented innovation and growth.",Artificial Intelligence,2021,Blog,Technical,Hype
+This study discusses practical implementations and limitations of Natural Language Processing based systems in 2023.,Natural Language Processing,2023,Blog,Technical,Technical
+This study discusses practical implementations and limitations of Unsupervised Learning based systems in 2021.,Unsupervised Learning,2021,Twitter,Non-Technical,Technical
+This study discusses practical implementations and limitations of Large Language Model based systems in 2023.,Large Language Model,2023,Reddit,Technical,Technical
+"Unsupervised Learning will revolutionize industries by 2024, unlocking unprecedented innovation and growth.",Unsupervised Learning,2023,LinkedIn,Technical,Hype
+"Computer Vision will revolutionize industries by 2026, unlocking unprecedented innovation and growth.",Computer Vision,2025,Twitter,Non-Technical,Hype
+This study discusses practical implementations and limitations of Supervised Learning based systems in 2021.,Supervised Learning,2021,Reddit,Technical,Technical
+"Deep Learning will revolutionize industries by 2023, unlocking unprecedented innovation and growth.",Deep Learning,2022,Marketing,Non-Technical,Hype
+This study discusses practical implementations and limitations of Large Language Model based systems in 2025.,Large Language Model,2025,Reddit,Technical,Technical
+"Data Analyst will revolutionize industries by 2022, unlocking unprecedented innovation and growth.",Data Analyst,2021,Blog,Technical,Hype
+"Chatbot will revolutionize industries by 2025, unlocking unprecedented innovation and growth.",Chatbot,2024,LinkedIn,Non-Technical,Hype
+This study discusses practical implementations and limitations of Supervised Learning based systems in 2023.,Supervised Learning,2023,LinkedIn,Technical,Technical
+This study discusses practical implementations and limitations of Deep Learning based systems in 2021.,Deep Learning,2021,Reddit,Non-Technical,Technical
+"Supervised Learning will revolutionize industries by 2024, unlocking unprecedented innovation and growth.",Supervised Learning,2023,LinkedIn,Non-Technical,Hype
+"Chatbot will revolutionize industries by 2024, unlocking unprecedented innovation and growth.",Chatbot,2023,Blog,Technical,Hype
+"Unsupervised Learning will revolutionize industries by 2024, unlocking unprecedented innovation and growth.",Unsupervised Learning,2023,Twitter,Non-Technical,Hype
+"Data Science will revolutionize industries by 2021, unlocking unprecedented innovation and growth.",Data Science,2020,LinkedIn,Non-Technical,Hype
+This study discusses practical implementations and limitations of Robotic Process Automation based systems in 2020.,Robotic Process Automation,2020,Blog,Non-Technical,Technical
+"Data Analyst will revolutionize industries by 2024, unlocking unprecedented innovation and growth.",Data Analyst,2023,LinkedIn,Non-Technical,Hype
+This study discusses practical implementations and limitations of Natural Language Processing based systems in 2024.,Natural Language Processing,2024,Reddit,Non-Technical,Technical
+This study discusses practical implementations and limitations of Computer Vision based systems in 2022.,Computer Vision,2022,Twitter,Technical,Technical
+This study discusses practical implementations and limitations of Machine Learning based systems in 2022.,Machine Learning,2022,Twitter,Non-Technical,Technical
+"Algorithm will revolutionize industries by 2025, unlocking unprecedented innovation and growth.",Algorithm,2024,LinkedIn,Technical,Hype
+"Machine Learning will revolutionize industries by 2025, unlocking unprecedented innovation and growth.",Machine Learning,2024,Medium,Technical,Hype
+"Big Data will revolutionize industries by 2022, unlocking unprecedented innovation and growth.",Big Data,2021,Blog,Technical,Hype
+This study discusses practical implementations and limitations of Sentiment Analysis based systems in 2024.,Sentiment Analysis,2024,Marketing,Non-Technical,Technical
+This study discusses practical implementations and limitations of Data Science based systems in 2021.,Data Science,2021,Twitter,Technical,Technical
+"Deep Learning will revolutionize industries by 2022, unlocking unprecedented innovation and growth.",Deep Learning,2021,Blog,Technical,Hype
+"Explainable AI will revolutionize industries by 2022, unlocking unprecedented innovation and growth.",Explainable AI,2021,Blog,Technical,Hype
+This study discusses practical implementations and limitations of Large Language Model based systems in 2024.,Large Language Model,2024,Twitter,Technical,Technical
+This study discusses practical implementations and limitations of Sentiment Analysis based systems in 2020.,Sentiment Analysis,2020,Medium,Technical,Technical
+This study discusses practical implementations and limitations of Natural Language Processing based systems in 2022.,Natural Language Processing,2022,Blog,Technical,Technical
+This study discusses practical implementations and limitations of Chatbot based systems in 2023.,Chatbot,2023,Twitter,Technical,Technical
+"Large Language Model will revolutionize industries by 2023, unlocking unprecedented innovation and growth.",Large Language Model,2022,Blog,Non-Technical,Hype
+This study discusses practical implementations and limitations of GPT based systems in 2024.,GPT,2024,Twitter,Technical,Technical
+This study discusses practical implementations and limitations of Natural Language Processing based systems in 2023.,Natural Language Processing,2023,Blog,Technical,Technical
+This study discusses practical implementations and limitations of Artificial Intelligence based systems in 2021.,Artificial Intelligence,2021,Medium,Non-Technical,Technical
+"Sentiment Analysis will revolutionize industries by 2026, unlocking unprecedented innovation and growth.",Sentiment Analysis,2025,LinkedIn,Technical,Hype
+This study discusses practical implementations and limitations of Internet of Things based systems in 2022.,Internet of Things,2022,Twitter,Technical,Technical
+This study discusses practical implementations and limitations of Data Analyst based systems in 2024.,Data Analyst,2024,Reddit,Non-Technical,Technical
+"Large Language Model will revolutionize industries by 2022, unlocking unprecedented innovation and growth.",Large Language Model,2021,Marketing,Non-Technical,Hype
+This study discusses practical implementations and limitations of Natural Language Processing based systems in 2024.,Natural Language Processing,2024,Twitter,Technical,Technical
+This study discusses practical implementations and limitations of Natural Language Processing based systems in 2023.,Natural Language Processing,2023,Reddit,Technical,Technical
+"Explainable AI will revolutionize industries by 2023, unlocking unprecedented innovation and growth.",Explainable AI,2022,Twitter,Non-Technical,Hype
+"Machine Learning will revolutionize industries by 2026, unlocking unprecedented innovation and growth.",Machine Learning,2025,Marketing,Non-Technical,Hype
+This study discusses practical implementations and limitations of Large Language Model based systems in 2023.,Large Language Model,2023,Twitter,Non-Technical,Technical
+This study discusses practical implementations and limitations of Explainable AI based systems in 2023.,Explainable AI,2023,Twitter,Technical,Technical
+This study discusses practical implementations and limitations of Algorithm based systems in 2020.,Algorithm,2020,Twitter,Non-Technical,Technical
+"Robotic Process Automation will revolutionize industries by 2026, unlocking unprecedented innovation and growth.",Robotic Process Automation,2025,Marketing,Technical,Hype
+This study discusses practical implementations and limitations of Artificial Intelligence based systems in 2023.,Artificial Intelligence,2023,Twitter,Non-Technical,Technical
+This study discusses practical implementations and limitations of Unsupervised Learning based systems in 2022.,Unsupervised Learning,2022,Reddit,Technical,Technical
+"GPT will revolutionize industries by 2026, unlocking unprecedented innovation and growth.",GPT,2025,Medium,Non-Technical,Hype
+This study discusses practical implementations and limitations of Large Language Model based systems in 2022.,Large Language Model,2022,LinkedIn,Non-Technical,Technical
+"Computer Vision will revolutionize industries by 2023, unlocking unprecedented innovation and growth.",Computer Vision,2022,Reddit,Non-Technical,Hype
+"Large Language Model will revolutionize industries by 2022, unlocking unprecedented innovation and growth.",Large Language Model,2021,Marketing,Non-Technical,Hype
+This study discusses practical implementations and limitations of Unsupervised Learning based systems in 2022.,Unsupervised Learning,2022,Reddit,Technical,Technical
+This study discusses practical implementations and limitations of GPT based systems in 2024.,GPT,2024,Twitter,Technical,Technical
+"Large Language Model will revolutionize industries by 2021, unlocking unprecedented innovation and growth.",Large Language Model,2020,Twitter,Non-Technical,Hype
+"Sentiment Analysis will revolutionize industries by 2024, unlocking unprecedented innovation and growth.",Sentiment Analysis,2023,Medium,Non-Technical,Hype
+This study discusses practical implementations and limitations of Transformer based systems in 2021.,Transformer,2021,Reddit,Technical,Technical
+This study discusses practical implementations and limitations of Data Analyst based systems in 2021.,Data Analyst,2021,Marketing,Non-Technical,Technical
+This study discusses practical implementations and limitations of Robotic Process Automation based systems in 2025.,Robotic Process Automation,2025,Blog,Non-Technical,Technical
+"Machine Learning will revolutionize industries by 2025, unlocking unprecedented innovation and growth.",Machine Learning,2024,Blog,Technical,Hype
+This study discusses practical implementations and limitations of Data Analyst based systems in 2024.,Data Analyst,2024,Reddit,Technical,Technical
+"Explainable AI will revolutionize industries by 2025, unlocking unprecedented innovation and growth.",Explainable AI,2024,Blog,Technical,Hype
+This study discusses practical implementations and limitations of Unsupervised Learning based systems in 2020.,Unsupervised Learning,2020,Twitter,Technical,Technical
+"Deep Learning will revolutionize industries by 2022, unlocking unprecedented innovation and growth.",Deep Learning,2021,Blog,Non-Technical,Hype
+"Robotic Process Automation will revolutionize industries by 2026, unlocking unprecedented innovation and growth.",Robotic Process Automation,2025,Medium,Non-Technical,Hype
+"Explainable AI will revolutionize industries by 2025, unlocking unprecedented innovation and growth.",Explainable AI,2024,LinkedIn,Technical,Hype
+This study discusses practical implementations and limitations of Supervised Learning based systems in 2022.,Supervised Learning,2022,Medium,Technical,Technical
+This study discusses practical implementations and limitations of Artificial Intelligence based systems in 2024.,Artificial Intelligence,2024,Marketing,Technical,Technical
+This study discusses practical implementations and limitations of Transformer based systems in 2023.,Transformer,2023,LinkedIn,Technical,Technical
+This study discusses practical implementations and limitations of Unsupervised Learning based systems in 2022.,Unsupervised Learning,2022,Marketing,Technical,Technical
+This study discusses practical implementations and limitations of Data Analyst based systems in 2021.,Data Analyst,2021,Medium,Technical,Technical
+"Deep Learning will revolutionize industries by 2025, unlocking unprecedented innovation and growth.",Deep Learning,2024,LinkedIn,Non-Technical,Hype
+"Deep Learning will revolutionize industries by 2026, unlocking unprecedented innovation and growth.",Deep Learning,2025,LinkedIn,Non-Technical,Hype
+This study discusses practical implementations and limitations of Generative AI based systems in 2022.,Generative AI,2022,Medium,Non-Technical,Technical
+"Artificial Intelligence will revolutionize industries by 2026, unlocking unprecedented innovation and growth.",Artificial Intelligence,2025,Blog,Technical,Hype
+"Data Analyst will revolutionize industries by 2022, unlocking unprecedented innovation and growth.",Data Analyst,2021,Blog,Technical,Hype
+This study discusses practical implementations and limitations of Transformer based systems in 2024.,Transformer,2024,Marketing,Technical,Technical
+This study discusses practical implementations and limitations of Big Data based systems in 2023.,Big Data,2023,Blog,Technical,Technical
+This study discusses practical implementations and limitations of Machine Learning based systems in 2023.,Machine Learning,2023,Blog,Technical,Technical
+This study discusses practical implementations and limitations of Chatbot based systems in 2025.,Chatbot,2025,Twitter,Technical,Technical
+This study discusses practical implementations and limitations of Artificial Intelligence based systems in 2020.,Artificial Intelligence,2020,LinkedIn,Non-Technical,Technical
+"Supervised Learning will revolutionize industries by 2022, unlocking unprecedented innovation and growth.",Supervised Learning,2021,LinkedIn,Technical,Hype
+This study discusses practical implementations and limitations of Supervised Learning based systems in 2020.,Supervised Learning,2020,LinkedIn,Technical,Technical
+This study discusses practical implementations and limitations of Computer Vision based systems in 2020.,Computer Vision,2020,Blog,Non-Technical,Technical
+This study discusses practical implementations and limitations of Data Science based systems in 2023.,Data Science,2023,LinkedIn,Non-Technical,Technical
+"Artificial Intelligence will revolutionize industries by 2026, unlocking unprecedented innovation and growth.",Artificial Intelligence,2025,Twitter,Non-Technical,Hype
+This study discusses practical implementations and limitations of Algorithm based systems in 2022.,Algorithm,2022,Marketing,Non-Technical,Technical
+This study discusses practical implementations and limitations of Generative AI based systems in 2022.,Generative AI,2022,Twitter,Technical,Technical
+This study discusses practical implementations and limitations of Machine Learning based systems in 2020.,Machine Learning,2020,Reddit,Technical,Technical
+This study discusses practical implementations and limitations of Robotic Process Automation based systems in 2022.,Robotic Process Automation,2022,Reddit,Technical,Technical
+This study discusses practical implementations and limitations of Neural Network based systems in 2021.,Neural Network,2021,Twitter,Technical,Technical
+"GPT will revolutionize industries by 2025, unlocking unprecedented innovation and growth.",GPT,2024,Blog,Technical,Hype
+This study discusses practical implementations and limitations of Explainable AI based systems in 2023.,Explainable AI,2023,LinkedIn,Non-Technical,Technical
+This study discusses practical implementations and limitations of Big Data based systems in 2021.,Big Data,2021,Twitter,Technical,Technical
+"Big Data will revolutionize industries by 2025, unlocking unprecedented innovation and growth.",Big Data,2024,Medium,Non-Technical,Hype
+This study discusses practical implementations and limitations of Data Science based systems in 2020.,Data Science,2020,Reddit,Technical,Technical
+"Algorithm will revolutionize industries by 2024, unlocking unprecedented innovation and growth.",Algorithm,2023,Blog,Non-Technical,Hype
+"Big Data will revolutionize industries by 2021, unlocking unprecedented innovation and growth.",Big Data,2020,Twitter,Non-Technical,Hype
+This study discusses practical implementations and limitations of Internet of Things based systems in 2025.,Internet of Things,2025,Reddit,Non-Technical,Technical
+This study discusses practical implementations and limitations of Large Language Model based systems in 2023.,Large Language Model,2023,Twitter,Technical,Technical
+This study discusses practical implementations and limitations of Computer Vision based systems in 2021.,Computer Vision,2021,Medium,Technical,Technical
+"Natural Language Processing will revolutionize industries by 2026, unlocking unprecedented innovation and growth.",Natural Language Processing,2025,LinkedIn,Technical,Hype
+This study discusses practical implementations and limitations of Data Science based systems in 2025.,Data Science,2025,Blog,Non-Technical,Technical
+"Neural Network will revolutionize industries by 2021, unlocking unprecedented innovation and growth.",Neural Network,2020,Marketing,Technical,Hype
+"Unsupervised Learning will revolutionize industries by 2021, unlocking unprecedented innovation and growth.",Unsupervised Learning,2020,LinkedIn,Technical,Hype
+"Natural Language Processing will revolutionize industries by 2022, unlocking unprecedented innovation and growth.",Natural Language Processing,2021,Medium,Technical,Hype
+This study discusses practical implementations and limitations of Internet of Things based systems in 2020.,Internet of Things,2020,Medium,Technical,Technical
+"Natural Language Processing will revolutionize industries by 2023, unlocking unprecedented innovation and growth.",Natural Language Processing,2022,Blog,Technical,Hype
+This study discusses practical implementations and limitations of Transformer based systems in 2024.,Transformer,2024,Medium,Technical,Technical
+"Natural Language Processing will revolutionize industries by 2024, unlocking unprecedented innovation and growth.",Natural Language Processing,2023,LinkedIn,Non-Technical,Hype
+This study discusses practical implementations and limitations of GPT based systems in 2023.,GPT,2023,Marketing,Non-Technical,Technical
+"Internet of Things will revolutionize industries by 2022, unlocking unprecedented innovation and growth.",Internet of Things,2021,Blog,Technical,Hype
+This study discusses practical implementations and limitations of Explainable AI based systems in 2021.,Explainable AI,2021,Marketing,Technical,Technical
+This study discusses practical implementations and limitations of Deep Learning based systems in 2021.,Deep Learning,2021,LinkedIn,Technical,Technical
+This study discusses practical implementations and limitations of Transformer based systems in 2024.,Transformer,2024,Twitter,Technical,Technical
+This study discusses practical implementations and limitations of Algorithm based systems in 2024.,Algorithm,2024,Marketing,Technical,Technical
+This study discusses practical implementations and limitations of Chatbot based systems in 2021.,Chatbot,2021,Blog,Technical,Technical
+This study discusses practical implementations and limitations of Robotic Process Automation based systems in 2021.,Robotic Process Automation,2021,LinkedIn,Technical,Technical
+This study discusses practical implementations and limitations of Algorithm based systems in 2020.,Algorithm,2020,LinkedIn,Technical,Technical
+This study discusses practical implementations and limitations of Transformer based systems in 2020.,Transformer,2020,Blog,Non-Technical,Technical
+This study discusses practical implementations and limitations of Supervised Learning based systems in 2023.,Supervised Learning,2023,Reddit,Technical,Technical
+This study discusses practical implementations and limitations of Supervised Learning based systems in 2025.,Supervised Learning,2025,Twitter,Technical,Technical
+This study discusses practical implementations and limitations of Machine Learning based systems in 2020.,Machine Learning,2020,Medium,Technical,Technical
+"Robotic Process Automation will revolutionize industries by 2026, unlocking unprecedented innovation and growth.",Robotic Process Automation,2025,Marketing,Technical,Hype
+This study discusses practical implementations and limitations of Data Analyst based systems in 2020.,Data Analyst,2020,LinkedIn,Technical,Technical
+This study discusses practical implementations and limitations of Generative AI based systems in 2024.,Generative AI,2024,Twitter,Technical,Technical
+This study discusses practical implementations and limitations of Robotic Process Automation based systems in 2024.,Robotic Process Automation,2024,Blog,Non-Technical,Technical
+This study discusses practical implementations and limitations of Computer Vision based systems in 2022.,Computer Vision,2022,Blog,Technical,Technical
+This study discusses practical implementations and limitations of Generative AI based systems in 2020.,Generative AI,2020,Blog,Non-Technical,Technical
+This study discusses practical implementations and limitations of Data Analyst based systems in 2020.,Data Analyst,2020,Blog,Non-Technical,Technical
+"Chatbot will revolutionize industries by 2021, unlocking unprecedented innovation and growth.",Chatbot,2020,LinkedIn,Technical,Hype
+"Data Analyst will revolutionize industries by 2023, unlocking unprecedented innovation and growth.",Data Analyst,2022,Marketing,Technical,Hype
+"Neural Network will revolutionize industries by 2026, unlocking unprecedented innovation and growth.",Neural Network,2025,LinkedIn,Non-Technical,Hype
+"GPT will revolutionize industries by 2026, unlocking unprecedented innovation and growth.",GPT,2025,Marketing,Technical,Hype
+This study discusses practical implementations and limitations of Transformer based systems in 2021.,Transformer,2021,Blog,Technical,Technical
+"Artificial Intelligence will revolutionize industries by 2024, unlocking unprecedented innovation and growth.",Artificial Intelligence,2023,LinkedIn,Technical,Hype
+This study discusses practical implementations and limitations of Large Language Model based systems in 2021.,Large Language Model,2021,LinkedIn,Technical,Technical
+"Large Language Model will revolutionize industries by 2022, unlocking unprecedented innovation and growth.",Large Language Model,2021,Medium,Technical,Hype
+This study discusses practical implementations and limitations of Internet of Things based systems in 2024.,Internet of Things,2024,Reddit,Technical,Technical
+This study discusses practical implementations and limitations of Explainable AI based systems in 2023.,Explainable AI,2023,Reddit,Technical,Technical
+"Sentiment Analysis will revolutionize industries by 2024, unlocking unprecedented innovation and growth.",Sentiment Analysis,2023,Twitter,Non-Technical,Hype
+This study discusses practical implementations and limitations of Artificial Intelligence based systems in 2024.,Artificial Intelligence,2024,Twitter,Technical,Technical
+"Artificial Intelligence will revolutionize industries by 2022, unlocking unprecedented innovation and growth.",Artificial Intelligence,2021,LinkedIn,Technical,Hype
+"Artificial Intelligence will revolutionize industries by 2023, unlocking unprecedented innovation and growth.",Artificial Intelligence,2022,Blog,Technical,Hype
+"Natural Language Processing will revolutionize industries by 2021, unlocking unprecedented innovation and growth.",Natural Language Processing,2020,Reddit,Non-Technical,Hype
+"Data Analyst will revolutionize industries by 2025, unlocking unprecedented innovation and growth.",Data Analyst,2024,LinkedIn,Technical,Hype
+This study discusses practical implementations and limitations of GPT based systems in 2020.,GPT,2020,Medium,Technical,Technical
+This study discusses practical implementations and limitations of Algorithm based systems in 2024.,Algorithm,2024,Reddit,Technical,Technical
+This study discusses practical implementations and limitations of Large Language Model based systems in 2021.,Large Language Model,2021,Reddit,Technical,Technical
+This study discusses practical implementations and limitations of Big Data based systems in 2023.,Big Data,2023,Medium,Non-Technical,Technical
+This study discusses practical implementations and limitations of Data Analyst based systems in 2023.,Data Analyst,2023,Marketing,Non-Technical,Technical
+"Neural Network will revolutionize industries by 2024, unlocking unprecedented innovation and growth.",Neural Network,2023,Blog,Non-Technical,Hype
+This study discusses practical implementations and limitations of Robotic Process Automation based systems in 2021.,Robotic Process Automation,2021,Reddit,Technical,Technical
+"Sentiment Analysis will revolutionize industries by 2024, unlocking unprecedented innovation and growth.",Sentiment Analysis,2023,Medium,Non-Technical,Hype
+This study discusses practical implementations and limitations of Machine Learning based systems in 2021.,Machine Learning,2021,Reddit,Technical,Technical
+"Explainable AI will revolutionize industries by 2021, unlocking unprecedented innovation and growth.",Explainable AI,2020,LinkedIn,Technical,Hype
+This study discusses practical implementations and limitations of Data Science based systems in 2024.,Data Science,2024,Twitter,Technical,Technical
+This study discusses practical implementations and limitations of Data Analyst based systems in 2021.,Data Analyst,2021,Medium,Technical,Technical
+This study discusses practical implementations and limitations of Unsupervised Learning based systems in 2024.,Unsupervised Learning,2024,Reddit,Non-Technical,Technical
+This study discusses practical implementations and limitations of Chatbot based systems in 2024.,Chatbot,2024,Blog,Non-Technical,Technical
+"Computer Vision will revolutionize industries by 2026, unlocking unprecedented innovation and growth.",Computer Vision,2025,Reddit,Non-Technical,Hype
+This study discusses practical implementations and limitations of Natural Language Processing based systems in 2021.,Natural Language Processing,2021,Marketing,Non-Technical,Technical
+This study discusses practical implementations and limitations of Sentiment Analysis based systems in 2025.,Sentiment Analysis,2025,Reddit,Technical,Technical
+"Generative AI will revolutionize industries by 2023, unlocking unprecedented innovation and growth.",Generative AI,2022,Marketing,Non-Technical,Hype
+"Large Language Model will revolutionize industries by 2024, unlocking unprecedented innovation and growth.",Large Language Model,2023,LinkedIn,Non-Technical,Hype
+This study discusses practical implementations and limitations of Artificial Intelligence based systems in 2024.,Artificial Intelligence,2024,Marketing,Non-Technical,Technical
+This study discusses practical implementations and limitations of Generative AI based systems in 2025.,Generative AI,2025,Reddit,Technical,Technical
+"Internet of Things will revolutionize industries by 2022, unlocking unprecedented innovation and growth.",Internet of Things,2021,Blog,Technical,Hype
+"Data Analyst will revolutionize industries by 2024, unlocking unprecedented innovation and growth.",Data Analyst,2023,Blog,Non-Technical,Hype
+"Chatbot will revolutionize industries by 2025, unlocking unprecedented innovation and growth.",Chatbot,2024,Marketing,Technical,Hype
+"Explainable AI will revolutionize industries by 2024, unlocking unprecedented innovation and growth.",Explainable AI,2023,Marketing,Technical,Hype
+This study discusses practical implementations and limitations of Explainable AI based systems in 2023.,Explainable AI,2023,Twitter,Technical,Technical
+This study discusses practical implementations and limitations of Supervised Learning based systems in 2025.,Supervised Learning,2025,LinkedIn,Technical,Technical
+This study discusses practical implementations and limitations of Data Science based systems in 2020.,Data Science,2020,Twitter,Technical,Technical
+This study discusses practical implementations and limitations of Neural Network based systems in 2023.,Neural Network,2023,Reddit,Technical,Technical
+This study discusses practical implementations and limitations of Explainable AI based systems in 2022.,Explainable AI,2022,Medium,Non-Technical,Technical
+This study discusses practical implementations and limitations of Big Data based systems in 2020.,Big Data,2020,Blog,Technical,Technical
+"Supervised Learning will revolutionize industries by 2026, unlocking unprecedented innovation and growth.",Supervised Learning,2025,LinkedIn,Technical,Hype
+This study discusses practical implementations and limitations of Natural Language Processing based systems in 2023.,Natural Language Processing,2023,Marketing,Non-Technical,Technical
+"Sentiment Analysis will revolutionize industries by 2026, unlocking unprecedented innovation and growth.",Sentiment Analysis,2025,Twitter,Non-Technical,Hype
+This study discusses practical implementations and limitations of Deep Learning based systems in 2020.,Deep Learning,2020,Twitter,Technical,Technical
+This study discusses practical implementations and limitations of Sentiment Analysis based systems in 2020.,Sentiment Analysis,2020,Twitter,Non-Technical,Technical
+This study discusses practical implementations and limitations of Unsupervised Learning based systems in 2022.,Unsupervised Learning,2022,Marketing,Non-Technical,Technical
+"Internet of Things will revolutionize industries by 2022, unlocking unprecedented innovation and growth.",Internet of Things,2021,Medium,Non-Technical,Hype
+This study discusses practical implementations and limitations of Transformer based systems in 2020.,Transformer,2020,Marketing,Technical,Technical
+This study discusses practical implementations and limitations of Natural Language Processing based systems in 2022.,Natural Language Processing,2022,Reddit,Technical,Technical
+This study discusses practical implementations and limitations of Machine Learning based systems in 2024.,Machine Learning,2024,Reddit,Technical,Technical
+This study discusses practical implementations and limitations of Artificial Intelligence based systems in 2025.,Artificial Intelligence,2025,Reddit,Technical,Technical
+This study discusses practical implementations and limitations of Deep Learning based systems in 2021.,Deep Learning,2021,Medium,Technical,Technical
+"Data Analyst will revolutionize industries by 2022, unlocking unprecedented innovation and growth.",Data Analyst,2021,LinkedIn,Non-Technical,Hype
+This study discusses practical implementations and limitations of Chatbot based systems in 2024.,Chatbot,2024,Twitter,Technical,Technical
+"Deep Learning will revolutionize industries by 2021, unlocking unprecedented innovation and growth.",Deep Learning,2020,LinkedIn,Technical,Hype
+"Machine Learning will revolutionize industries by 2021, unlocking unprecedented innovation and growth.",Machine Learning,2020,Medium,Non-Technical,Hype
+"Natural Language Processing will revolutionize industries by 2022, unlocking unprecedented innovation and growth.",Natural Language Processing,2021,Blog,Technical,Hype
+"Transformer will revolutionize industries by 2022, unlocking unprecedented innovation and growth.",Transformer,2021,LinkedIn,Non-Technical,Hype
+This study discusses practical implementations and limitations of Machine Learning based systems in 2022.,Machine Learning,2022,Blog,Technical,Technical
+"Supervised Learning will revolutionize industries by 2023, unlocking unprecedented innovation and growth.",Supervised Learning,2022,Reddit,Non-Technical,Hype
+This study discusses practical implementations and limitations of Computer Vision based systems in 2021.,Computer Vision,2021,Reddit,Non-Technical,Technical
+This study discusses practical implementations and limitations of GPT based systems in 2023.,GPT,2023,Twitter,Technical,Technical
+This study discusses practical implementations and limitations of Machine Learning based systems in 2023.,Machine Learning,2023,Twitter,Technical,Technical
+"Supervised Learning will revolutionize industries by 2024, unlocking unprecedented innovation and growth.",Supervised Learning,2023,Marketing,Non-Technical,Hype
+This study discusses practical implementations and limitations of Machine Learning based systems in 2022.,Machine Learning,2022,Twitter,Non-Technical,Technical
+"Explainable AI will revolutionize industries by 2023, unlocking unprecedented innovation and growth.",Explainable AI,2022,Medium,Technical,Hype
+"Neural Network will revolutionize industries by 2024, unlocking unprecedented innovation and growth.",Neural Network,2023,LinkedIn,Non-Technical,Hype
+This study discusses practical implementations and limitations of Deep Learning based systems in 2025.,Deep Learning,2025,Blog,Non-Technical,Technical
+This study discusses practical implementations and limitations of Large Language Model based systems in 2025.,Large Language Model,2025,Twitter,Technical,Technical
+This study discusses practical implementations and limitations of Artificial Intelligence based systems in 2022.,Artificial Intelligence,2022,Medium,Technical,Technical
+"GPT will revolutionize industries by 2021, unlocking unprecedented innovation and growth.",GPT,2020,Blog,Non-Technical,Hype
+"Internet of Things will revolutionize industries by 2026, unlocking unprecedented innovation and growth.",Internet of Things,2025,LinkedIn,Technical,Hype
+"Artificial Intelligence will revolutionize industries by 2025, unlocking unprecedented innovation and growth.",Artificial Intelligence,2024,Marketing,Non-Technical,Hype
+This study discusses practical implementations and limitations of Supervised Learning based systems in 2023.,Supervised Learning,2023,Blog,Non-Technical,Technical
+This study discusses practical implementations and limitations of Unsupervised Learning based systems in 2020.,Unsupervised Learning,2020,Reddit,Technical,Technical
+"Data Science will revolutionize industries by 2026, unlocking unprecedented innovation and growth.",Data Science,2025,Medium,Non-Technical,Hype
+"Data Analyst will revolutionize industries by 2023, unlocking unprecedented innovation and growth.",Data Analyst,2022,LinkedIn,Technical,Hype
+This study discusses practical implementations and limitations of Internet of Things based systems in 2021.,Internet of Things,2021,LinkedIn,Non-Technical,Technical
+"Data Analyst will revolutionize industries by 2022, unlocking unprecedented innovation and growth.",Data Analyst,2021,Twitter,Non-Technical,Hype
+This study discusses practical implementations and limitations of Neural Network based systems in 2022.,Neural Network,2022,Twitter,Non-Technical,Technical
+This study discusses practical implementations and limitations of GPT based systems in 2025.,GPT,2025,Blog,Technical,Technical
+This study discusses practical implementations and limitations of GPT based systems in 2020.,GPT,2020,Medium,Non-Technical,Technical
+This study discusses practical implementations and limitations of Deep Learning based systems in 2025.,Deep Learning,2025,Twitter,Technical,Technical
+This study discusses practical implementations and limitations of Supervised Learning based systems in 2020.,Supervised Learning,2020,LinkedIn,Technical,Technical
+"Deep Learning will revolutionize industries by 2023, unlocking unprecedented innovation and growth.",Deep Learning,2022,Blog,Non-Technical,Hype
+This study discusses practical implementations and limitations of GPT based systems in 2020.,GPT,2020,Twitter,Technical,Technical
+"Computer Vision will revolutionize industries by 2021, unlocking unprecedented innovation and growth.",Computer Vision,2020,Blog,Non-Technical,Hype
+"Transformer will revolutionize industries by 2025, unlocking unprecedented innovation and growth.",Transformer,2024,LinkedIn,Non-Technical,Hype
+This study discusses practical implementations and limitations of Explainable AI based systems in 2022.,Explainable AI,2022,Reddit,Technical,Technical
+This study discusses practical implementations and limitations of Transformer based systems in 2023.,Transformer,2023,Blog,Non-Technical,Technical
+This study discusses practical implementations and limitations of Deep Learning based systems in 2024.,Deep Learning,2024,Reddit,Technical,Technical
+"Large Language Model will revolutionize industries by 2021, unlocking unprecedented innovation and growth.",Large Language Model,2020,LinkedIn,Technical,Hype
+"Machine Learning will revolutionize industries by 2023, unlocking unprecedented innovation and growth.",Machine Learning,2022,Medium,Non-Technical,Hype
+This study discusses practical implementations and limitations of Algorithm based systems in 2022.,Algorithm,2022,Twitter,Technical,Technical
+This study discusses practical implementations and limitations of Artificial Intelligence based systems in 2025.,Artificial Intelligence,2025,Reddit,Technical,Technical
+This study discusses practical implementations and limitations of Computer Vision based systems in 2023.,Computer Vision,2023,Reddit,Technical,Technical
+This study discusses practical implementations and limitations of Data Science based systems in 2025.,Data Science,2025,Twitter,Non-Technical,Technical
+This study discusses practical implementations and limitations of Machine Learning based systems in 2023.,Machine Learning,2023,LinkedIn,Technical,Technical
+This study discusses practical implementations and limitations of Neural Network based systems in 2025.,Neural Network,2025,LinkedIn,Technical,Technical
+This study discusses practical implementations and limitations of Computer Vision based systems in 2021.,Computer Vision,2021,Medium,Non-Technical,Technical
+This study discusses practical implementations and limitations of Internet of Things based systems in 2021.,Internet of Things,2021,LinkedIn,Technical,Technical
+This study discusses practical implementations and limitations of Internet of Things based systems in 2024.,Internet of Things,2024,LinkedIn,Technical,Technical
+This study discusses practical implementations and limitations of Computer Vision based systems in 2023.,Computer Vision,2023,Medium,Non-Technical,Technical
+"Natural Language Processing will revolutionize industries by 2023, unlocking unprecedented innovation and growth.",Natural Language Processing,2022,Twitter,Non-Technical,Hype
+"Chatbot will revolutionize industries by 2023, unlocking unprecedented innovation and growth.",Chatbot,2022,Medium,Non-Technical,Hype
+This study discusses practical implementations and limitations of Data Analyst based systems in 2023.,Data Analyst,2023,Twitter,Technical,Technical
+"Artificial Intelligence will revolutionize industries by 2023, unlocking unprecedented innovation and growth.",Artificial Intelligence,2022,Twitter,Non-Technical,Hype
+This study discusses practical implementations and limitations of Generative AI based systems in 2023.,Generative AI,2023,Twitter,Technical,Technical
+"Big Data will revolutionize industries by 2021, unlocking unprecedented innovation and growth.",Big Data,2020,Reddit,Non-Technical,Hype
+This study discusses practical implementations and limitations of Sentiment Analysis based systems in 2022.,Sentiment Analysis,2022,Marketing,Technical,Technical
+This study discusses practical implementations and limitations of Transformer based systems in 2022.,Transformer,2022,LinkedIn,Non-Technical,Technical
+This study discusses practical implementations and limitations of Data Science based systems in 2023.,Data Science,2023,Marketing,Technical,Technical
+This study discusses practical implementations and limitations of Unsupervised Learning based systems in 2021.,Unsupervised Learning,2021,Twitter,Non-Technical,Technical
+"Unsupervised Learning will revolutionize industries by 2021, unlocking unprecedented innovation and growth.",Unsupervised Learning,2020,LinkedIn,Non-Technical,Hype
+This study discusses practical implementations and limitations of Neural Network based systems in 2024.,Neural Network,2024,Reddit,Non-Technical,Technical
+This study discusses practical implementations and limitations of Big Data based systems in 2023.,Big Data,2023,Medium,Non-Technical,Technical
+This study discusses practical implementations and limitations of Natural Language Processing based systems in 2023.,Natural Language Processing,2023,Marketing,Technical,Technical
+This study discusses practical implementations and limitations of Algorithm based systems in 2020.,Algorithm,2020,Reddit,Technical,Technical
+"Neural Network will revolutionize industries by 2021, unlocking unprecedented innovation and growth.",Neural Network,2020,Medium,Non-Technical,Hype
+This study discusses practical implementations and limitations of GPT based systems in 2020.,GPT,2020,Marketing,Technical,Technical
+"Algorithm will revolutionize industries by 2022, unlocking unprecedented innovation and growth.",Algorithm,2021,LinkedIn,Non-Technical,Hype
+"Algorithm will revolutionize industries by 2024, unlocking unprecedented innovation and growth.",Algorithm,2023,Medium,Non-Technical,Hype
+This study discusses practical implementations and limitations of Robotic Process Automation based systems in 2025.,Robotic Process Automation,2025,Medium,Non-Technical,Technical
+This study discusses practical implementations and limitations of Artificial Intelligence based systems in 2025.,Artificial Intelligence,2025,LinkedIn,Non-Technical,Technical
+"Computer Vision will revolutionize industries by 2026, unlocking unprecedented innovation and growth.",Computer Vision,2025,Medium,Technical,Hype
+This study discusses practical implementations and limitations of Artificial Intelligence based systems in 2022.,Artificial Intelligence,2022,Twitter,Technical,Technical
+This study discusses practical implementations and limitations of Explainable AI based systems in 2024.,Explainable AI,2024,Medium,Non-Technical,Technical
+"Data Analyst will revolutionize industries by 2025, unlocking unprecedented innovation and growth.",Data Analyst,2024,LinkedIn,Technical,Hype
+"Data Analyst will revolutionize industries by 2025, unlocking unprecedented innovation and growth.",Data Analyst,2024,Marketing,Technical,Hype
+"Generative AI will revolutionize industries by 2024, unlocking unprecedented innovation and growth.",Generative AI,2023,Marketing,Non-Technical,Hype
+This study discusses practical implementations and limitations of Data Analyst based systems in 2025.,Data Analyst,2025,Medium,Technical,Technical
+"Data Analyst will revolutionize industries by 2024, unlocking unprecedented innovation and growth.",Data Analyst,2023,Medium,Technical,Hype
+This study discusses practical implementations and limitations of Supervised Learning based systems in 2025.,Supervised Learning,2025,Medium,Technical,Technical
+This study discusses practical implementations and limitations of Large Language Model based systems in 2023.,Large Language Model,2023,Twitter,Technical,Technical
+This study discusses practical implementations and limitations of Data Analyst based systems in 2022.,Data Analyst,2022,Twitter,Non-Technical,Technical
+"Computer Vision will revolutionize industries by 2024, unlocking unprecedented innovation and growth.",Computer Vision,2023,Medium,Non-Technical,Hype
+"GPT will revolutionize industries by 2024, unlocking unprecedented innovation and growth.",GPT,2023,Marketing,Non-Technical,Hype
+"Artificial Intelligence will revolutionize industries by 2026, unlocking unprecedented innovation and growth.",Artificial Intelligence,2025,Marketing,Non-Technical,Hype
+This study discusses practical implementations and limitations of Explainable AI based systems in 2020.,Explainable AI,2020,LinkedIn,Non-Technical,Technical
+"Chatbot will revolutionize industries by 2021, unlocking unprecedented innovation and growth.",Chatbot,2020,Reddit,Non-Technical,Hype
+This study discusses practical implementations and limitations of Big Data based systems in 2024.,Big Data,2024,Medium,Non-Technical,Technical
+"Natural Language Processing will revolutionize industries by 2021, unlocking unprecedented innovation and growth.",Natural Language Processing,2020,LinkedIn,Technical,Hype
+"Data Science will revolutionize industries by 2023, unlocking unprecedented innovation and growth.",Data Science,2022,Medium,Technical,Hype
+This study discusses practical implementations and limitations of Unsupervised Learning based systems in 2020.,Unsupervised Learning,2020,Twitter,Technical,Technical
+This study discusses practical implementations and limitations of Data Analyst based systems in 2024.,Data Analyst,2024,Twitter,Non-Technical,Technical
+This study discusses practical implementations and limitations of Unsupervised Learning based systems in 2021.,Unsupervised Learning,2021,LinkedIn,Non-Technical,Technical
+This study discusses practical implementations and limitations of Supervised Learning based systems in 2025.,Supervised Learning,2025,Reddit,Non-Technical,Technical
+"Deep Learning will revolutionize industries by 2026, unlocking unprecedented innovation and growth.",Deep Learning,2025,LinkedIn,Technical,Hype
+This study discusses practical implementations and limitations of Explainable AI based systems in 2024.,Explainable AI,2024,Medium,Non-Technical,Technical
+"Large Language Model will revolutionize industries by 2022, unlocking unprecedented innovation and growth.",Large Language Model,2021,Reddit,Non-Technical,Hype
+"GPT will revolutionize industries by 2023, unlocking unprecedented innovation and growth.",GPT,2022,Medium,Non-Technical,Hype
+This study discusses practical implementations and limitations of Chatbot based systems in 2020.,Chatbot,2020,Reddit,Technical,Technical
+"Sentiment Analysis will revolutionize industries by 2025, unlocking unprecedented innovation and growth.",Sentiment Analysis,2024,Marketing,Non-Technical,Hype
+"Large Language Model will revolutionize industries by 2021, unlocking unprecedented innovation and growth.",Large Language Model,2020,Marketing,Technical,Hype
+This study discusses practical implementations and limitations of Neural Network based systems in 2023.,Neural Network,2023,Medium,Technical,Technical
+This study discusses practical implementations and limitations of Internet of Things based systems in 2024.,Internet of Things,2024,Medium,Technical,Technical
+This study discusses practical implementations and limitations of Artificial Intelligence based systems in 2024.,Artificial Intelligence,2024,Medium,Non-Technical,Technical
+This study discusses practical implementations and limitations of Sentiment Analysis based systems in 2020.,Sentiment Analysis,2020,Reddit,Technical,Technical
+This study discusses practical implementations and limitations of Natural Language Processing based systems in 2021.,Natural Language Processing,2021,LinkedIn,Non-Technical,Technical
+"Big Data will revolutionize industries by 2024, unlocking unprecedented innovation and growth.",Big Data,2023,Marketing,Non-Technical,Hype
+"Big Data will revolutionize industries by 2022, unlocking unprecedented innovation and growth.",Big Data,2021,Reddit,Non-Technical,Hype
+"Internet of Things will revolutionize industries by 2021, unlocking unprecedented innovation and growth.",Internet of Things,2020,Blog,Technical,Hype
+"Transformer will revolutionize industries by 2021, unlocking unprecedented innovation and growth.",Transformer,2020,Marketing,Technical,Hype
+"Explainable AI will revolutionize industries by 2026, unlocking unprecedented innovation and growth.",Explainable AI,2025,Marketing,Non-Technical,Hype
+This study discusses practical implementations and limitations of Generative AI based systems in 2023.,Generative AI,2023,Twitter,Technical,Technical
+This study discusses practical implementations and limitations of Big Data based systems in 2021.,Big Data,2021,LinkedIn,Non-Technical,Technical
+"Chatbot will revolutionize industries by 2025, unlocking unprecedented innovation and growth.",Chatbot,2024,Blog,Non-Technical,Hype
+This study discusses practical implementations and limitations of Deep Learning based systems in 2024.,Deep Learning,2024,Twitter,Non-Technical,Technical
+"GPT will revolutionize industries by 2024, unlocking unprecedented innovation and growth.",GPT,2023,Medium,Non-Technical,Hype
+"Neural Network will revolutionize industries by 2021, unlocking unprecedented innovation and growth.",Neural Network,2020,Reddit,Non-Technical,Hype
+This study discusses practical implementations and limitations of Sentiment Analysis based systems in 2023.,Sentiment Analysis,2023,Marketing,Technical,Technical
+"Data Analyst will revolutionize industries by 2025, unlocking unprecedented innovation and growth.",Data Analyst,2024,Blog,Technical,Hype
+This study discusses practical implementations and limitations of GPT based systems in 2025.,GPT,2025,Reddit,Technical,Technical
+This study discusses practical implementations and limitations of Transformer based systems in 2020.,Transformer,2020,Reddit,Non-Technical,Technical
+"Sentiment Analysis will revolutionize industries by 2024, unlocking unprecedented innovation and growth.",Sentiment Analysis,2023,LinkedIn,Non-Technical,Hype
+"Computer Vision will revolutionize industries by 2021, unlocking unprecedented innovation and growth.",Computer Vision,2020,Twitter,Non-Technical,Hype
+This study discusses practical implementations and limitations of Data Science based systems in 2022.,Data Science,2022,LinkedIn,Non-Technical,Technical
+This study discusses practical implementations and limitations of Supervised Learning based systems in 2020.,Supervised Learning,2020,Twitter,Non-Technical,Technical
+"Chatbot will revolutionize industries by 2021, unlocking unprecedented innovation and growth.",Chatbot,2020,LinkedIn,Technical,Hype
+This study discusses practical implementations and limitations of Artificial Intelligence based systems in 2025.,Artificial Intelligence,2025,Medium,Technical,Technical
+"Neural Network will revolutionize industries by 2023, unlocking unprecedented innovation and growth.",Neural Network,2022,LinkedIn,Technical,Hype
+This study discusses practical implementations and limitations of Artificial Intelligence based systems in 2025.,Artificial Intelligence,2025,Twitter,Technical,Technical
+"Sentiment Analysis will revolutionize industries by 2023, unlocking unprecedented innovation and growth.",Sentiment Analysis,2022,Medium,Non-Technical,Hype
+This study discusses practical implementations and limitations of Large Language Model based systems in 2022.,Large Language Model,2022,Medium,Technical,Technical
+This study discusses practical implementations and limitations of Natural Language Processing based systems in 2024.,Natural Language Processing,2024,Reddit,Non-Technical,Technical
+This study discusses practical implementations and limitations of Unsupervised Learning based systems in 2021.,Unsupervised Learning,2021,LinkedIn,Technical,Technical
+This study discusses practical implementations and limitations of Natural Language Processing based systems in 2024.,Natural Language Processing,2024,Reddit,Technical,Technical
+This study discusses practical implementations and limitations of Data Analyst based systems in 2023.,Data Analyst,2023,Blog,Technical,Technical
+This study discusses practical implementations and limitations of Data Science based systems in 2024.,Data Science,2024,Twitter,Non-Technical,Technical
+"Data Science will revolutionize industries by 2022, unlocking unprecedented innovation and growth.",Data Science,2021,Blog,Non-Technical,Hype
+This study discusses practical implementations and limitations of Artificial Intelligence based systems in 2024.,Artificial Intelligence,2024,LinkedIn,Non-Technical,Technical
+This study discusses practical implementations and limitations of Machine Learning based systems in 2023.,Machine Learning,2023,LinkedIn,Technical,Technical
+This study discusses practical implementations and limitations of Machine Learning based systems in 2023.,Machine Learning,2023,Reddit,Technical,Technical
+"Explainable AI will revolutionize industries by 2022, unlocking unprecedented innovation and growth.",Explainable AI,2021,Medium,Non-Technical,Hype
+This study discusses practical implementations and limitations of Natural Language Processing based systems in 2021.,Natural Language Processing,2021,LinkedIn,Non-Technical,Technical
+"Computer Vision will revolutionize industries by 2021, unlocking unprecedented innovation and growth.",Computer Vision,2020,Blog,Non-Technical,Hype
+This study discusses practical implementations and limitations of Robotic Process Automation based systems in 2022.,Robotic Process Automation,2022,LinkedIn,Technical,Technical
+This study discusses practical implementations and limitations of Big Data based systems in 2024.,Big Data,2024,Marketing,Technical,Technical
+This study discusses practical implementations and limitations of Data Analyst based systems in 2022.,Data Analyst,2022,Blog,Non-Technical,Technical
+"Neural Network will revolutionize industries by 2025, unlocking unprecedented innovation and growth.",Neural Network,2024,Medium,Technical,Hype
+"Neural Network will revolutionize industries by 2025, unlocking unprecedented innovation and growth.",Neural Network,2024,LinkedIn,Non-Technical,Hype
+"Deep Learning will revolutionize industries by 2023, unlocking unprecedented innovation and growth.",Deep Learning,2022,Marketing,Technical,Hype
+This study discusses practical implementations and limitations of Explainable AI based systems in 2020.,Explainable AI,2020,Twitter,Technical,Technical
+"Neural Network will revolutionize industries by 2022, unlocking unprecedented innovation and growth.",Neural Network,2021,Blog,Non-Technical,Hype

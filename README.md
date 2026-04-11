@@ -1,3 +1,4 @@
+## SBERT-Driven Semantic Trajectory Analysis for Quantifying Technical Buzzword Dilution
 1. It detects how technical buzzwords like AI, GPT, and Blockchain are losing their precise meaning as they spread across platforms like LinkedIn, Reddit, and Twitter.
 
 2. It uses Sentence-BERT to convert text into embeddings and measures how far the usage has drifted from the original technical definition using cosine similarity.

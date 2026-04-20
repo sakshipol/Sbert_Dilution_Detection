@@ -123,7 +123,7 @@ def load_data():
 
 @st.cache_resource
 def load_embeddings():
-    return np.load("text_Embeddings.npy")
+    return np.load("text_embeddings.npy")
 
 df = load_data()
 embeddings = load_embeddings()
